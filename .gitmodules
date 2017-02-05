@@ -1,3 +1,6 @@
 [submodule "SHT30"]
 	path = SHT30
 	url = https://github.com/clusty/SHT30.git
+[submodule "ThingSpeak"]
+	path = ThingSpeak
+	url = https://github.com/mathworks/thingspeak-particle.git/
