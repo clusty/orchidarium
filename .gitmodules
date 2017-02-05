@@ -1,0 +1,3 @@
+[submodule "SHT30"]
+	path = SHT30
+	url = https://github.com/clusty/SHT30.git
